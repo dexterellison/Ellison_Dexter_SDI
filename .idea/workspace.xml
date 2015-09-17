@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af4366e1-94f1-4110-b335-67d59e61f1d0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoToTrainingWeek2/AssciatingJS/.idea/workspace.xml" afterPath="$PROJECT_DIR$/GoToTrainingWeek2/AssciatingJS/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoToTrainingWeek3/js/gotoWeek3.js" afterPath="$PROJECT_DIR$/GoToTrainingWeek3/js/gotoWeek3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Ellison_Dexter_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,21 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GoToTrainingWeek2/AssciatingJS/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="gotoWeek3.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GoToTrainingWeek3/js/gotoWeek3.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.14788732">
-              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+            <state vertical-scroll-proportion="0.6126761">
+              <caret line="29" column="54" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -87,8 +78,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="710" />
-    <option name="y" value="120" />
+    <option name="x" value="521" />
+    <option name="y" value="73" />
     <option name="width" value="1440" />
     <option name="height" value="807" />
   </component>
@@ -239,7 +230,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="710" y="120" width="1440" height="807" extended-state="0" />
+    <frame x="521" y="73" width="1440" height="807" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -325,8 +316,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GoToTrainingWeek3/js/gotoWeek3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14788732">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.6126761">
+          <caret line="29" column="54" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
