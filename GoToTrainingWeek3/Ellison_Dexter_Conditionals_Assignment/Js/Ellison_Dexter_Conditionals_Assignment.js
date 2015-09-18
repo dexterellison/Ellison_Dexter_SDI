@@ -30,8 +30,9 @@ if(pairOfShoes[1]==="blue pair"){
 } else {
     console.log("This is a blue pair")
 }
-if(pairOfShoes[3]==="blue pair"){
+if(pairOfShoes[3]==="blue pair") {
     console.log("This is not a blue pair");
 
 }
+
 

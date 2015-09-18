@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="af4366e1-94f1-4110-b335-67d59e61f1d0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoToTrainingWeek3/Ellison_Dexter_Conditionals_Assignment/Js/Ellison_Dexter_Conditionals_Assignment.js" afterPath="$PROJECT_DIR$/GoToTrainingWeek3/Ellison_Dexter_Conditionals_Assignment/Js/Ellison_Dexter_Conditionals_Assignment.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Ellison_Dexter_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -187,7 +188,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../.." />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -197,6 +198,9 @@
     <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../.." />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/GoToTrainingWeek2/Ellison_Dexter_Expression_Assignment" />
     </key>
@@ -333,7 +337,7 @@
         <state vertical-scroll-proportion="0.6197183">
           <caret line="117" column="0" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
