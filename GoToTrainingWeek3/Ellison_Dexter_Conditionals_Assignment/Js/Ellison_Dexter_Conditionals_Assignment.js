@@ -7,40 +7,35 @@
 
 //alert("Testing to see if connected.");
 
-var pairOfShoes = ["blue pair", "green pair", "black pair", "brown"];
+var pairOfShoes = ["blue pair", "green pair", "black pair", "brown pair"];
 
 console.log(pairOfShoes);
 
-var totalNumPairOfShoes = 0;
+var totalNumBluePair = 0;
 
-//How many pairs of colored shoes I own are blue
+//Which pair is the blue pair
 
-if(pairOfShoes[0]==="blue"){
-
-    console.log("This is pair of shoes blue");
-    totalNumPairOfBlueShoes++;
+if(pairOfShoes[0]==="blue pair"){
+    console.log("This is a blue pair");
+    totalNumOfBluePair++;
 } else {
-    consol.log("This is a pair of blue shoes")
+    console.log("This is a blue pair")
 }
-
 if(pairOfShoes[1]==="blue pair"){
-
-    console.log("This is a pear");
-    totalNumPairOfBlueShoes++;
+    console.log("This is not a blue pair");
+    totalNumOfBluePair++;
 } else {
-    consol.log("This is not a pair of blue shoes");
+    console.log("This is not a blue pair");
 }
-
 if(bowlOfFruit[2]==="blue pair"){
-
-    console.log("This is a pear");
-    totalNumPairOfBlueShoes++;
+    console.log("This is not a pair");
+    totalNumBluePair++;
 } else {
-    consol.log("This fruit is not a pear");
-
+    console.log("This is not a blue pair ");
     if(pairOfShoes[3]==="blue pair"){
-
-        console.log("This is a pear");
-        totalNumPairOfBlueShoes++;
+        console.log("This is a blue pair");
+    }
+        totalNumBluePair++;
     } else {
-        console.log("This is not a pair of blue shoes");
+        console.log("This is not a blue pair");
+    }
