@@ -102,5 +102,29 @@ for(var i =0; i<bowlOfFruit; i++) {
 console.log("The total number of pears in the bowl is"+pearNumber);
 
 
+//Validate prompts
+
+var name = prompt ("What is your name?");
+if(name==="") {
+    //The user left it blank
+    //reprompt the user the same variable
+    name = prompt("Please do not leave blank. \nWhat is your name?")
+
+}
+
+var num1 = prompt("Please type in a number");
+
+//Test to see if it is a number
+
+//isNaN(item to test)
+console.log(isNaN("cat")); //true
+console.log(isNaN(7)); // returns false
+
+if(isNan(num1)){
+    //Reprompt the user
+    num1 = prompt("Please only use the numbers. \nType in a number");
+
+}
+
 
 
