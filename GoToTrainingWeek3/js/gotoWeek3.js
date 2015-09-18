@@ -12,7 +12,7 @@ Section 02
 //Array - variable that holds multiple variables
 //Index # of an array always starts with 0!!
 
-var bowlOfFruit = ["apple", "banana", "pear", "peach",];
+var bowlOfFruit = ["apple", "banana", "pear", "peach", "pear"];
 
 //See whole array
 console.log(bowlOfFruit);
@@ -40,7 +40,7 @@ var totalNumPears = 0;
 // "7" === 7 - false
 // prompts always return strings!!
 
-if(bowlOfFruit[0]=="pear"){
+if(bowlOfFruit[0]==="pear"){
     //This code will run if true
     //Add 1 to the total numbers of pears
     console.log("This is a pear");
@@ -48,3 +48,41 @@ if(bowlOfFruit[0]=="pear"){
 } else {
     consol.log("This fruit is not a pear")
 }
+
+if(bowlOfFruit[1]==="pear"){
+    //This code will run if true
+    //Add 1 to the total numbers of pears
+    console.log("This is a pear");
+    totalNumPears++; //totalNumPears = totalNumPears + 1;
+} else {
+    consol.log("This fruit is not a pear");
+}
+
+if(bowlOfFruit[2]==="pear"){
+    //This code will run if true
+    //Add 1 to the total numbers of pears
+    console.log("This is a pear");
+    totalNumPears++; //totalNumPears = totalNumPears + 1;
+} else {
+    consol.log("This fruit is not a pear");
+
+    if(bowlOfFruit[3]==="pear"){
+        //This code will run if true
+        //Add 1 to the total numbers of pears
+        console.log("This is a pear");
+        totalNumPears++; //totalNumPears = totalNumPears + 1;
+    } else {
+        console.log("This fruit is not a pear");
+    }
+
+    console.log("There are "+totalNumPears+" pear(s) in the fruit bowl.");
+
+
+//Create another varible to track pears
+Var pearNumbeer = 0
+
+//Create a loop for repetitive code.
+
+// For Loop Structure
+
+
