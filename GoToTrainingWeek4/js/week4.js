@@ -62,3 +62,30 @@ happy = happy.toLowerCase();
 while(happy !="yes" && happy!="no"&& happy !="maybe"){
     happy = prompt("Please only use yes, maybe or no.\nAre you happy today?");
 }
+
+
+//Function call - "go button" that runs the function
+//Arguments go inside of the function call ()
+//Create a variable to catch the return value.
+var returnedValue = randomizr(minNum, maxNum);
+
+console.log("Your random number between "+minNum+" and "+maxNum+" is "+returnedValue);
+
+
+//Create a function to calculate the random number
+//parameters go inside of ()
+//Parameters are temporary variable that can only accessed inside of the function.
+// They catch the arguments that are thrown into the function.
+//It makes the code more flexible
+// We DO NOT  want to use main code variables inside of functions
+
+function randomizr(min, max){
+
+    //Generate our random number
+    var randomNumber = Math.round( Math.random()*(max-min)+Number(min));
+    //console.log(randomNumber)
+
+    //return the value to our main code
+    return the randomNumber;
+
+}
