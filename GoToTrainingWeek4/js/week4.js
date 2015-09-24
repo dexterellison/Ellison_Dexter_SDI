@@ -43,3 +43,22 @@ Basic structure of a while loop
 
 
  */
+
+//Prompt the user for max number
+var maxNum = prompt("What is the max number:");
+
+//Validate directly after the prompt.
+while(maxNum==="" || isNaN(maxNum)){
+    maxNum = prompt("Please do not leave blank and only use numbers.\nWhat is the max value:");
+
+}
+
+//What if I wanted to validate words
+//Ask a yes or no question
+var happy = prompt("Are you happy today?");
+//convert to all lowercase
+happy = happy.toLowerCase();
+
+while(happy !="yes" && happy!="no"&& happy !="maybe"){
+    happy = prompt("Please only use yes, maybe or no.\nAre you happy today?");
+}
