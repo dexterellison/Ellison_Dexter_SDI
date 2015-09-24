@@ -89,3 +89,13 @@ function randomizr(min, max){
     return the randomNumber;
 
 }
+
+
+//Wanted 15 number randoms
+//Lets use a for loop
+for(var i=0; i=15; i++){
+
+        //15 DIFFERENT results
+        console.log(radomizr(minNum,mxNum));
+    
+}
