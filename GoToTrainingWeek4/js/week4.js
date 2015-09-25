@@ -97,5 +97,5 @@ for(var i=0; i=15; i++){
 
         //15 DIFFERENT results
         console.log(radomizr(minNum,mxNum));
-    
+
 }
